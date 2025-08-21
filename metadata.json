@@ -1,0 +1,5 @@
+{
+  "name": "Loan Tracker",
+  "description": "A simple and beautiful application to track your loans and payments. Add loans, record payments, and visualize your progress towards becoming debt-free.",
+  "requestFramePermissions": []
+}
